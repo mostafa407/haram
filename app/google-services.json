@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "814723658590",
+    "firebase_url": "https://haram-237918.firebaseio.com",
+    "project_id": "haram-237918",
+    "storage_bucket": "haram-237918.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814723658590:android:dca47ea047319a5f",
+        "android_client_info": {
+          "package_name": "com.example.mostafamohamed.haram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814723658590-622n3q9lh4tdu87lejtkspqsqkqr7977.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCjHcqBLL8ImDMeHqXQzOi63OYCG5oF70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814723658590-622n3q9lh4tdu87lejtkspqsqkqr7977.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Haram</string>
+    <string name="password">pass</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Login">login</string>
+    <string name="log_out">log out</string>
+    <string name="manask">manask</string>
+    <string name="username">username</string>
+    <string name="register">Register</string>
+    <string name="create">create</string>
+    <string name="phone">phone</string>
+    <string name="pass_word">password</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="map">Button</string>
+    <string name="mansek">Button</string>
+    <string name="lock">Button</string>
+    <string name="Map">map</string>
+    <string name="Lock">lock</string>
+    <string name="Manask">manask</string>
+    <string name="facebook_application_id" translatable="false">YOUR_APP_ID</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fbYOUR_APP_ID</string>
+    <string name="twitter_consumer_key" translatable="false">YOUR_CONSUMER_KEY</string>
+    <string name="twitter_consumer_secret" translatable="false">YOUR_CONSUMER_SECRET</string>
+
+</resources>
